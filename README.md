@@ -8,7 +8,7 @@ DeepFake Detection Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and
 
 - To find our trained model follow this [link](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing).
 
-- To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
+- To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation)
   Thanks to them!
 
 - To understand the project in a better way it is structured in below format:
@@ -28,8 +28,6 @@ DeepFake-Detection
 
 4. Requirements.txt - Python libraries needed for this project. 
 
-## Project Set-up Guidelines
-To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Project-Setup.txt).
 
 ## Note
 1. In the root folder(DeepFake_Detection), create a new folder called "Uploaded_Files".
@@ -51,10 +49,3 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 
 4) Confusion Matrix:
 <img width="402" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/58872872/133936080-d2b39804-4a99-47b8-8be4-87ba77161961.png">
-
-- To see the working of the project, follow this [link](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Implementation%20Video.mp4).
-
-## Developers
-1. [Juhie Motiani](https://github.com/JuhieMotiani)
-2. [Dhruti Patel](https://github.com/iamdhrutipatel)
-3. [Anjali Patel](https://github.com/anjali-patel21)
