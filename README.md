@@ -1,4 +1,5 @@
 DeepFake Detection
+
 DeepFake Detection Web application using Deep Learning, Flask and ReactJs where you can predict whether a video is FAKE Or REAL along with the confidence ratio. 
 
 Explanation of the Project
